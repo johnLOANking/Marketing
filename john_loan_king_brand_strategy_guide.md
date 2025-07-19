@@ -1,4 +1,4 @@
-# Brand Blueprint & AI Content Generation Guide
+# Brand Blueprint & Content Generation Guide
 
 # Step 1 – Articulate Your Brand Identity
 
