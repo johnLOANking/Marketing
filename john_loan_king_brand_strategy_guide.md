@@ -2,18 +2,18 @@
 
 # Step 1 – Articulate Your Brand Identity
 
-**Mission Statement**
+## 1. Mission Statement**
 > *I serve homebuyers, homeowners, and the professionals who support them—like realtors and financial planners—by helping them navigate the complex processes of home buying and refinancing.  
 > More than just securing loans, I provide down-to-earth, expert advice that empowers clients to build lasting wealth through real estate.  
 > With over 25 years of experience, I’m committed to making the complicated feel clear and manageable so people can make confident, informed decisions.*
 
----
+
 
 ## 2. Vision Statement  
 > *To inspire and empower every client to achieve their fullest dreams by building lasting wealth through real estate.  
 > I envision a future where more individuals move beyond financial limitation—owning multiple properties, gaining stability and security—and I provide the clarity, confidence, and guidance to turn that vision into reality.*
 
----
+
 
 ## 3. Core Brand Values  
 
@@ -25,7 +25,7 @@
 | **4** | **Empowerment Through Education** | Equip clients with the knowledge and confidence they need to make informed, wealth-building decisions. |
 | **5** | **Genuine Service, Always** | Serve with heart, compassion, and care—making every client feel seen, supported, and valued. |
 
----
+
 
 ## 4. Brand Beliefs  
 
@@ -38,7 +38,7 @@
 3. **A Home Is a Key Financial Asset**  
    For most people, their home is the single largest component of net worth and should be managed with the same diligence as any investment portfolio.
 
----
+
 
 ## 5. Unique Perspective / Brand Opinion  
 
@@ -85,12 +85,12 @@
 
 ---
 
-## Investor Persona #2 – “Portfolio Builders”
+## Investor Persona #3 – “Portfolio Builders”
 
 ### Snapshot
 *Small-scale investors buying 1–4 units—often first-timers—plus growth-minded owners scaling toward 5–10 doors.*
 
----
+
 
 ### Demographics & Profile
 | Attribute | Details |
@@ -100,7 +100,7 @@
 | **Occupation** | • Real-estate-adjacent roles (agents, contractors)<br>• Professionals in tech, finance, medicine, engineering, small-business ownership |
 | **Geographic Focus** | **Nationwide** reach via online marketing—active clients in TX, TN, and your local market. Many buy both in-state *and* out-of-state for cash-flow or appreciation plays. |
 
----
+
 
 ### Life Stage & Experience
 | Segment | Description |
@@ -108,7 +108,7 @@
 | **First-Time / Early-Stage Investors** | Own zero or one rental; need education on financing, tenant laws, and basic deal analysis. |
 | **Growth-Stage Investors** | Hold 2–4 rentals; aim to scale to 5–10+ doors using equity recycling, LLC structuring, and 1031 exchanges. |
 
----
+
 
 ### Primary Goals
 1. Acquire doors efficiently without locking up excessive capital.  
@@ -117,7 +117,7 @@
 4. Protect assets and credit through smart entity structures.  
 5. Diversify beyond the stock market and build semi-passive income.
 
----
+
 
 ### Key Pain Points ✓ You Solve
 | Pain Point | Your Solution |
@@ -128,7 +128,7 @@
 | **Need for speed & certainty** | Pre-underwriting and quick-close timelines; delayed-financing play for cash offers. |
 | **Complex tax & entity strategy** | Guidance on LLC titling, 1031 exchanges, new 2025 incentives—coordinated with CPAs/attorneys. |
 
----
+
 
 ### Values & Expectations
 * Hands-on, high-touch guidance.  
@@ -137,7 +137,7 @@
 * Network synergy (introductions to agents, CPAs, PMs).  
 * Transparent, proactive communication.
 
----
+
 
 ### Watering Holes
 | Experience Level | Where They Hang Out |
@@ -145,7 +145,7 @@
 | **Seasoned** | BiggerPockets podcast/forums • Local & virtual REI meet-ups • Investor FB groups • YouTube “BRRRR” channels |
 | **New** | General YouTube “how to invest in real estate” videos • Instagram/TikTok finance influencers • Your email list & webinars |
 
----
+
 
 ### Messaging Hooks
 * **“Grow doors, not headaches—creative lending that scales with you.”**  
@@ -153,7 +153,7 @@
 * **“Use equity from Door 1 to fund Doors 2 & 3—without draining cash.”**  
 * **“Invest like a pro: fast closes, entity-friendly loans, and tax-smart strategies.”**
 
----
+
 
 > **Use This Persona To:**  
 > • Tailor beginner vs. advanced content streams.  
