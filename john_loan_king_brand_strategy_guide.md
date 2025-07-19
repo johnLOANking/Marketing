@@ -1,8 +1,6 @@
 # Brand Blueprint & AI Content Generation Guide
 
-## Complete Exercise Outline
-
-### Step 1 – Articulate Your Brand Identity
+# Step 1 – Articulate Your Brand Identity
 
 **Mission Statement**
 > *I serve homebuyers, homeowners, and the professionals who support them—like realtors and financial planners—by helping them navigate the complex processes of home buying and refinancing.  
@@ -50,7 +48,7 @@
 
 ---
 
-### Step 2 – Detail Your Ideal Customers
+# Step 2 – Detail Your Ideal Customers
 
 
 ## Persona 1 – “New Nesters”
@@ -95,7 +93,7 @@
 
 ---
 
-### Step 3 – Brand Voice & Writing Style
+# Step 3 – Brand Voice & Writing Style
 
 ## 1. Brand Personality & Archetype
 
@@ -157,7 +155,7 @@
 
 ---
 
-### Step 4 – Offer Suite & Unique Selling Propositions 
+# Step 4 – Offer Suite & Unique Selling Propositions 
 
 ## Overview – Core Services / Products
 1. **Home Purchase Loans** – strategy-driven financing that helps clients win the right home.  
@@ -249,7 +247,7 @@
 
 ---
 
-### Step 5 – Core Messaging & Copy Assets
+# Step 5 – Core Messaging & Copy Assets
 
 **Pillars & Key Messages**
 
@@ -278,7 +276,7 @@ I’m a mortgage strategist who helps buyers, owners, and investors turn financi
 
 ---
 
-## Brand Voice & AI Content Generation Guide
+# Brand Voice & AI Content Generation Guide
 
 **Use this guide in prompts to ensure content stays on‑brand.**
 
