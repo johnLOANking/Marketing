@@ -240,15 +240,89 @@ Entrepreneurs and 1099 earners who struggle to qualify under traditional income-
 
 ---
 
+## Persona #5 – Move-Up Buyers
 
+### Snapshot
+Current homeowners (late-30s → early-50s) looking for a larger or better-located home.  
+Key stressor: **“Do we sell, keep, or rent out the current home—and how do we fund the next down payment without derail­ing the process?”**
+
+
+
+### Demographics & Profile
+| Attribute | Details |
+|-----------|---------|
+| **Age Range** | Late-30s – Early-50s |
+| **Household** | Growing families, dual-income professionals, remote-work households needing more space |
+| **Current Home** | Starter or mid-tier property with built-up equity |
+| **Future Home Goal** | More square footage, better schools/neighborhood, dedicated WFH offices, or lifestyle upgrade |
+
+
+
+### Primary Motivation Triggers
+* **Need-Driven:** Growing family, WFH space, multigenerational living.  
+* **Want-Driven:** Better schools, upscale neighborhood, newer/bigger house.  
+* **Investment Thinking:** Evaluate whether to **sell** or **convert current home to a rental** for passive income.
+
+
+
+### Key Pain Points You Solve
+| Pain Point | Solution |
+|------------|----------|
+| **Sequencing Dilemma** (“buy-then-sell, sell-then-buy, or both?”) | Side-by-side cash-flow & risk modeling for each path **plus a bridge-style loan** that unlocks equity from the current home *before* it’s sold. Funds can cover up to ~50 % of the next down payment, up to ~$35 k for prep-repairs, and even six months of old-mortgage payments—then the bridge is paid off at closing |
+| **Carrying Two Mortgages** | Bridge loan above plus cross-collateral or recast options; pre-underwriting for contingent or non-contingent offers; fixed-rate HELOC on current home if bridge isn’t optimal. |
+| **Down-Payment Source** | Bridge proceeds, same-day fixed-rate HELOC, or delayed-financing strategy after an all-cash purchase. |
+| **Rate Shock vs. Existing Low Rate** | Total-cost comparison, “sell-&-invest” scenarios, rental-holding ROI analysis to justify move. |
+| **Timing Stress / Market Uncertainty** | Clear timelines, market data, and weekly updates; tight coordination with realtor for synchronized sell/buy or rent-out plan. |
+
+
+
+
+### Information & Advice Journey
+1. **Early Research:** Family & friends’ anecdotes, Zillow/Redfin browsing, school-rating sites, mortgage calculators.  
+2. **Next Step:** Engage Realtor (often once serious).  
+3. **Then Lender (You):** Seeking strategy on financing sequence and down payment.
+
+
+
+### Values & Expectations
+* **Clarity on Options** – pros/cons of each buy/sell path.  
+* **Creative Capital Solutions** – bridge, HELOC, delayed financing.  
+* **Seamless Teamwork** – lender + realtor coordination.  
+* **Risk Mitigation** – understand carrying costs and contingency plans.  
+* **Transparent Timelines & Communication** – weekly status updates.
+
+
+
+### Watering Holes
+| Stage | Where They Go |
+|-------|---------------|
+| **Early Research** | Zillow, Redfin, Realtor.com, GreatSchools.org, neighborhood Facebook groups, YouTube “sell vs. rent” videos |
+| **Peer Input** | Friends/family who recently moved; local parenting groups |
+| **Professional Guidance** | Realtor blogs/newsletters, mortgage comparison sites, your educational emails & webinars |
+
+
+
+### Messaging Hooks
+* **“Buy first, sell first, or keep it? Let’s model the numbers and choose the smartest path.”**  
+* **“Turn your current home into a down payment—without rushing a sale.”**  
+* **“Bridge financing + fast close options so you never feel stuck between two homes.”**  
+* **“Grow your space or your school district—while growing your long-term wealth.”**
+
+
+
+> **Usage Tips**  
+> • example content: “3 Ways to Fund a Move-Up Home without Draining Savings.”  
+> • Joint webinars with Realtors on sequencing strategies.  
+> • Drip emails triggered by HELOC inquiries: present sell-vs-rent calculator & bridge-loan explainer.
 
 ---
 
+
+---
 ## Shared, Cross-Persona Needs & Pain Points
 - **Conflicting advice** from multiple “experts” creates paralysis.  
 - Need a **trusted, consultative advisor** who uncovers hidden issues early and provides tailored solutions.  
 - Desire **clear, empathetic communication** that replaces jargon with actionable insight.
-
 
 ---
 
