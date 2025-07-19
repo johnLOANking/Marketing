@@ -85,6 +85,86 @@
 
 ---
 
+## Investor Persona #2 – “Portfolio Builders”
+
+### Snapshot
+*Small-scale investors buying 1–4 units—often first-timers—plus growth-minded owners scaling toward 5–10 doors.*
+
+---
+
+### Demographics & Profile
+| Attribute | Details |
+|-----------|---------|
+| **Age Range** | Mid-30s – mid-50s |
+| **Gender** | Predominantly married men (but inclusive of all genders) |
+| **Occupation** | • Real-estate-adjacent roles (agents, contractors)<br>• Professionals in tech, finance, medicine, engineering, small-business ownership |
+| **Geographic Focus** | **Nationwide** reach via online marketing—active clients in TX, TN, and your local market. Many buy both in-state *and* out-of-state for cash-flow or appreciation plays. |
+
+---
+
+### Life Stage & Experience
+| Segment | Description |
+|---------|-------------|
+| **First-Time / Early-Stage Investors** | Own zero or one rental; need education on financing, tenant laws, and basic deal analysis. |
+| **Growth-Stage Investors** | Hold 2–4 rentals; aim to scale to 5–10+ doors using equity recycling, LLC structuring, and 1031 exchanges. |
+
+---
+
+### Primary Goals
+1. Acquire doors efficiently without locking up excessive capital.  
+2. Balance cash flow *or* long-term appreciation—rarely both at start.  
+3. Capture new 2025 tax incentives tied to investment property ownership.  
+4. Protect assets and credit through smart entity structures.  
+5. Diversify beyond the stock market and build semi-passive income.
+
+---
+
+### Key Pain Points ✓ You Solve
+| Pain Point | Your Solution |
+|------------|---------------|
+| **Conventional door caps & DTI ceilings** | Portfolio / non-QM / DSCR loans that bypass property-count and personal-income limits. |
+| **Capital drag from big down payments** | Cash-out refis, hard-money + delayed-financing, BRRRR-friendly options to recycle cash. |
+| **Messy documentation for self-employed & LLCs** | Bank-statement, P&L, asset-depletion underwriting—packaged in-house for speed. |
+| **Need for speed & certainty** | Pre-underwriting and quick-close timelines; delayed-financing play for cash offers. |
+| **Complex tax & entity strategy** | Guidance on LLC titling, 1031 exchanges, new 2025 incentives—coordinated with CPAs/attorneys. |
+
+---
+
+### Values & Expectations
+* Hands-on, high-touch guidance.  
+* Creative, common-sense financing solutions.  
+* Speed and certainty on competitive deals.  
+* Network synergy (introductions to agents, CPAs, PMs).  
+* Transparent, proactive communication.
+
+---
+
+### Watering Holes
+| Experience Level | Where They Hang Out |
+|------------------|---------------------|
+| **Seasoned** | BiggerPockets podcast/forums • Local & virtual REI meet-ups • Investor FB groups • YouTube “BRRRR” channels |
+| **New** | General YouTube “how to invest in real estate” videos • Instagram/TikTok finance influencers • Your email list & webinars |
+
+---
+
+### Messaging Hooks
+* **“Grow doors, not headaches—creative lending that scales with you.”**  
+* **“Turn conventional dead-ends into portfolio springboards.”**  
+* **“Use equity from Door 1 to fund Doors 2 & 3—without draining cash.”**  
+* **“Invest like a pro: fast closes, entity-friendly loans, and tax-smart strategies.”**
+
+---
+
+> **Use This Persona To:**  
+> • Tailor beginner vs. advanced content streams.  
+> • Craft case studies on BRRRR, DSCR multi-unit, and 1031 timelines.  
+> • Align drip campaigns—“Start Investing” vs. “Scale Your Portfolio.”
+
+---
+
+
+---
+
 ## Shared, Cross-Persona Needs & Pain Points
 - **Conflicting advice** from multiple “experts” creates paralysis.  
 - Need a **trusted, consultative advisor** who uncovers hidden issues early and provides tailored solutions.  
