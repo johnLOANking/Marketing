@@ -268,7 +268,7 @@ Key stressor: **“Do we sell, keep, or rent out the current home—and how do w
 ### Key Pain Points You Solve
 | Pain Point | Solution |
 |------------|----------|
-| **Sequencing Dilemma** (“buy-then-sell, sell-then-buy, or both?”) | Side-by-side cash-flow & risk modeling for each path **plus a bridge-style loan** that unlocks equity from the current home *before* it’s sold. Funds can cover up to ~50 % of the next down payment, up to ~$35 k for prep-repairs, and even six months of old-mortgage payments—then the bridge is paid off at closing |
+| **Sequencing Dilemma** (“buy-then-sell, sell-then-buy, or both at the same time?”) | Side-by-side cash-flow & risk modeling for each path **plus a bridge-style loan** that unlocks equity from the current home *before* it’s sold. Funds can cover up to ~50 % of the next down payment, up to ~$35 k for prep-repairs, and even six months of old-mortgage payments—then the bridge is paid off at closing |
 | **Carrying Two Mortgages** | Bridge loan above plus cross-collateral or recast options; pre-underwriting for contingent or non-contingent offers; fixed-rate HELOC on current home if bridge isn’t optimal. |
 | **Down-Payment Source** | Bridge proceeds, same-day fixed-rate HELOC, or delayed-financing strategy after an all-cash purchase. |
 | **Rate Shock vs. Existing Low Rate** | Total-cost comparison, “sell-&-invest” scenarios, rental-holding ROI analysis to justify move. |
