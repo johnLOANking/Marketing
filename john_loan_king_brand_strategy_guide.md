@@ -615,6 +615,85 @@ They’re skeptical of most loan officers—assuming minimal tax knowledge and p
 > **Usage Tips**  
 > • Offer quarterly “Tax-Smart Mortgage” webinars for CPAs & planners.<br>• Provide a one-page “Mortgage Impact Checklist” they can share with clients.<br>• Send annual “pre-tax-filing” reminder emails: invite advisors to review draft returns together.
 ---
+## Persona #10 – CA “Dream for All” Buyers
+
+### Snapshot  
+First-generation, first-time Californians drawn to CalHFA’s shared-equity **Dream for All** program.  
+Motives (in priority order):  
+1. **Limited savings** – need down-payment help.  
+2. **Stretch buying power** – beat DTI limits with program boost.  
+3. **OPM mindset** – keep their own cash in reserve (“Other People’s Money”).
+
+
+
+### Demographics & Profile
+| Attribute | Details |
+|-----------|---------|
+| **Age Range** | 25–55 |
+| **Household** | Often dual-income couples; some single professionals |
+| **Income Band** | ≤ program county cap—many *incorrectly think* they’re over or under because they mis-calculate how lenders look at income (assume it is just their w-2 or AGI) |
+| **Employment** | Mix of W-2 employees (healthcare, education, admin), self employed, and hourly/service workers |
+| **Geographic Focus** | Throughout CA—especially high-cost metros where down payment is the main barrier |
+
+
+
+### Primary Goals
+1. Secure the **20% shared-equity assistance** to get a lower payment or stretch buying power to higher price with similar payment.  
+2. Qualify smoothly despite mid-tier credit or high DTI.  
+3. Minimize out-of-pocket cash (ideally just EMD + appraisal/inspections).  
+4. Get into the lottery and then be able to utilize their voucher (if selected) prior to the expiration date.
+
+
+
+### Key Pain Points You Solve
+| Pain Point | Your Solution |
+|------------|---------------|
+| **Credit Hurdles** (never bothered to improve scores) | Rapid-rescore, credit coaching, and  simulator plan to reach 680 requirements before reservation window opens, and keep it there until they have a voucher (660 is min if they are under 80% ami). |
+| **Debt-to-Income Limits** | Use Dream assistance to wipe MI, buy down rate, and structure seller/lender credits so payment lands under 45 % DTI cap (can go to 50% with over 700 fico). |
+| **Income-Cap Confusion** | Educate on *program* income calculation (tax-return AGI vs. gross) and exclude non-qualifying household earners when allowed—many discover they’re actually under cap. |
+| **Closing-Cost Fear** | Show how DFA funds can cover closing + prepaid items; no need to ask for seller credits in most situations— potential for no extra cash beyond EMD/appraisal. |
+| **Racing the Reservation Clock** | obtain pre-approval letter **before** portal opens; make sure they maintain qualifications in order to use it when they get a voucher.  Concern about income limits changing annually, them getting pay changes, credit or debt changes. |
+| **Shared-Equity Payback Concerns** | Break down real-number examples: projected appreciation vs. equity share, refi/repay options, and “still cheaper than PMI + waiting years to save 20 %.” |
+
+
+
+### Values & Expectations
+* **Step-by-step guidance** – clear tasks before the funding window.  
+* **Honesty on eligibility** – quick yes/no so they don’t waste time... but offer other solutions if this one does not fit... and make sure to not give up too quickly as we will have ample time to overcome issues between initial pre-approval and the time they get a voucher.  
+* **Creative structuring** – temporary and permenant rate buydowns, building cloisng costs into assistance to minize cash out of pocket (while avoiding monthly MI by making it a one time fee since they are not putting less than 20% down), removing a borrower or adding a cosigner to make the deal work.  
+* **Fast action** – we have done so many of these loans in the last 3 years, that we have it down to a science.  We typically close in less than 21 days.
+* **Education in plain English** – no jargon, lots of visuals.
+
+
+
+### Information & Advice Journey
+| Stage | Typical Actions |
+|-------|-----------------|
+| **Discovery** | TikTok & Instagram reels “How to buy with 0 down in CA” • CalHFA/Dream for All press articles |
+| **Validation** | Reddit r/FirstTimeHomeBuyer • Facebook groups “California First-Time Buyers” • Friends/family success stories |
+| **Professional Help** | Realtor referral or Google search → lender webinar “Dream for All 101” |
+
+
+
+### Watering Holes
+* **Social:** TikTok #DreamForAll, IG “californiahomebuyer” reels  
+* **Web:** CalHFA.ca.gov • NerdWallet CA down-payment pages  
+* **Community:** Local housing counseling agencies, city FTHB workshops  
+* **YouTube:** “Dream for All walkthrough,” “CalHFA shared equity explained”
+
+
+
+### Messaging Hook samples
+* **“20 % down with zero cash—yours to use, not lose (until you profit).”**  
+* **“Think you earn too much? Let’s calc it the *program* way—most people are under the cap.”**  
+* **“Skip PMI, lower your payment, keep your savings.”**  
+
+
+
+> **Usage examples**  
+> • Run weekly IG Live: “Is Dream for All coming back? Prep checklist.”  
+> • Publish a one-page flowchart: *Eligibility → Reservation → Offer → Close*.  
+> • Drip email series: credit-score sprint, income-calc myth-buster, offer-structure builder.
 
 
 ---
