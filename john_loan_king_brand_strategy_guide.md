@@ -472,6 +472,81 @@ Biggest challenge: **maximizing qualification** (credit, debt-to-income, seller 
 > • Create drip series: “Getting Your COE,” “Boosting Residual Income,” “How Seller Credits Can Pay Off Debt.”
 ---
 
+## Persona #8 – Realtor Referral Partners
+
+### Snapshot  
+Small- to mid-volume real-estate agents who close a handful to a few dozen deals per year. They aren’t hunting for fancy lunches—they need a **problem-file expert** who can close fast, rescue tricky scenarios, and be responsive when surprises pop up.
+
+
+
+### Demographics & Profile
+| Attribute | Details |
+|-----------|---------|
+| **Sales Volume** | Typically < 30 transactions a year (but aspire to grow). |
+| **Experience Range** | New licensees to mid-career agents; few true “mega producers.” |
+| **Personality** | Hustling, relationship-oriented, lean on partners for specialized knowledge. |
+| **Geographic Reach** | Spread across your lending footprint; many discovered you via mass-email, classes, or social posts. |
+
+
+
+### Primary Goals
+1. **Close deals smoothly**—avoid lender-caused fallout.  
+2. **Save “problem files”** that their usual lender can’t handle.  
+3. **Look like a hero** to buyers and listing agents with fast approvals.  
+4. **Grow referral business** by touting a lender who can fund niche programs.  
+
+
+
+### Key Pain Points You Solve
+| Pain Point | Your Solution |
+|------------|---------------|
+| **Deals dying in underwriting** | Product-expert reputation; in-house non-QM, DSCR, VA, renovation, fixed-rate HELOC. You pre-underwrite tough files early and pivot programs without restarting the clock. |
+| **Slow closings & unresponsive lenders** | Fast turn times + same-day pre-qual letters; automated milestone updates plus instant response when agent texts/calls. |
+| **Buyer qualification uncertainty** | Thorough, upfront vetting; tax-return analysis for self-employed; bridge-loan and equity-tap strategies for contingent buyers. |
+| **VA & FHA stigma with listing agents** | Educate listing side; provide fully-underwritten approvals, appraisal-gap strategies, seller-credit explanations. |
+| **Need content to attract niche buyers** | Educational email blasts & social graphics they can forward (“How a fixed-rate HELOC wins bidding wars,” “DSCR 101 for investors”). |
+
+
+
+### Values & Expectations
+* **Problem-Solver Mindset** – turn “I can’t” into “Here’s how.”  
+* **Speed & Certainty** – pre-approval letters buyers can bank on.  
+* **On-Demand Responsiveness** – text or call → quick answer.  
+* **Automated Milestones** – keep them looped in without hand-holding.  
+* **Educational Resources** – niche-product explainers they can send to clients.  
+
+
+### Information & Advice Journey
+| Stage | Typical Actions |
+|-------|-----------------|
+| **Discover** | Mass email/social post about niche product → saves contact. |
+| **Test Drive** | Sends first “tough file” to see if you can rescue it. |
+| **Trust Build** | Experiences fast close + good comms → begins routing more buyers. |
+
+
+
+### Watering Holes
+* Local Realtor-board Facebook groups & Slack channels  
+* CE classes, broker-office meetings, Lunch-and-Learns (virtual or in-person)  
+* Association newsletters & MLS bulletins  
+* YouTube / Instagram Reels on loan-program updates  
+
+
+
+### Messaging Hooks
+* **“Got a file your lender just killed? Let’s revive it and close on time.”**  
+* **“Same-day pre-quals + niche products = more accepted offers.”**  
+* **“Bridge-loan, reno, DSCR, VA—I’m the toolbox behind your next win.”**  
+* **“Automated milestones in your inbox; real human on your phone.”**
+
+
+
+> **Usage Tips**  
+> • Send monthly “Problem-File Rescue” case studies to agent list.  
+> • Host short Zoom “power sessions” on DSCR, bridge-loans, VA seller credits.  
+> • Offer co-branded marketing pieces: one-page explainers they can email buyers.
+---
+
 
 
 ---
