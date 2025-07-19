@@ -394,6 +394,84 @@ Biggest blind spot: **income-portability rules**—they assume their current job
 > • Co-market with destination Realtors: joint webinars & YouTube interviews.
 ---
 
+## Persona #7 – VA First-Time Buyers
+
+### Snapshot  
+Recently separated or mid-career veterans (avg. 30s) using their VA benefit to purchase a first home with **zero down**.  
+Biggest challenge: **maximizing qualification** (credit, debt-to-income, seller credits) while competing in markets that can be resistant to VA offers.
+
+
+
+### Demographics & Profile
+| Attribute | Details |
+|-----------|---------|
+| **Age Range** | Late-20s – late-30s (core in low- to mid-30s) |
+| **Service Status** | Recently separated, National Guard/Reserve with qualifying time, or active-duty nearing PCS |
+| **Family Status** | Many are married with 1–2 children or planning a family |
+| **Employment** | Transitioning to civilian careers; many in law-enforcement, IT, logistics, skilled trades |
+| **Geographic Spread** | Nationwide—often buying near new civilian job, hometown, or last duty station |
+
+
+
+### Primary Goals
+1. **Buy a home with little or no cash** out of pocket (0 % down, seller credits).  
+2. **Leverage VA advantages**—no mortgage insurance, competitive rate, flexible credit.  
+3. **Stabilize monthly housing costs** after years of moving or on-base living.  
+4. **Start building equity and wealth** early in civilian life.
+
+
+
+### Key Pain Points You Solve
+| Pain Point | Your Solution |
+|------------|---------------|
+| **Maximizing Qualification Despite Low Taxable Income or High Consumer Debt** | • Deep knowledge of VA residual-income calc.<br>• Credit coaching + rapid-rescore options.<br>• Structuring seller credits to pay off allowable debts at closing (unique to VA). |
+| **Seller Resistance to VA Offers** | • Strong pre-approval with full underwriting.<br>• Educate listing agents on zero-down strength & faster funding.<br>• Strategy calls with buyer + agent to craft competitive terms (appraisal gap plan, closing-cost structure). |
+| **Confusion Over Eligibility & COE** | • Same-day COE retrieval and explanation of service-length rules.<br>• Guide surviving-spouse and disability-rating nuances (funding-fee waivers). |
+| **VA Appraisal & ‘Tidewater’ Anxiety** | • Prep buyers & agents on VA appraisal standards.<br>• Rapid Tidewater response templates and repair-negotiation playbook. |
+| **Zero-Cash-to-Close Requirement** | • Combine seller credits + lender credits.<br>• Structure purchase price to roll in allowable fees.<br>• Explain earnest-money return options and gift-fund rules. |
+
+
+
+### Values & Expectations
+* **Respect & Understanding** of military culture and benefits.  
+* **Clear, jargon-free guidance** on VA specifics.  
+* **Advocacy in negotiations**—prove VA is as strong as conventional.  
+* **Speed & Certainty**—COE, underwriting, and appraisal handled proactively.  
+* **Credit & Debt Coaching**—path to approval even with rough credit.
+
+
+
+### Information & Advice Journey
+| Stage | Typical Actions |
+|-------|-----------------|
+| **Early Research** | VA.gov home-loan page • Military.com articles • YouTube “VA Loan Insider” • Reddit r/Veterans & r/MilitaryFinance |
+| **Peer Input** | Advice from fellow service members / vets who recently bought |
+| **Professional Help** | Realtor familiar with VA → Lender (you) for strategy on qualification and offer strength |
+
+
+
+### Watering Holes
+* **Websites:** VA.gov • MilitaryOneSource • Military.com  
+* **YouTube:** “VA Loan Insider,” “Low VA Rates,” “Military Mortgage Boot Camp”  
+* **Social:** Facebook groups “VA Home Loan Guaranty,” “Veterans Buying Homes” • Reddit r/Veterans  
+* **Local:** VFW & American Legion posts • Base TAP classes
+
+
+
+### Messaging Hooks
+* **“Zero-down doesn’t have to mean zero chance—make your VA offer win.”**  
+* **“Seller credits can wipe out debt—only VA lets you do that.”**  
+* **“From COE to keys: VA financing without the red-tape headaches.”**  
+* **“Own a home, build equity, honor your benefit.”**
+
+
+
+> **Usage Examples**  
+> • Produce a “VA Offer Playbook” PDF for buyers & agents.  
+> • Host monthly YouTube Q&A: “VA Loans for First-Time Buyers—Live with a VA Underwriting Pro.”  
+> • Create drip series: “Getting Your COE,” “Boosting Residual Income,” “How Seller Credits Can Pay Off Debt.”
+---
+
 
 
 ---
