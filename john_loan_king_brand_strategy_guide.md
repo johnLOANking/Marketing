@@ -97,28 +97,155 @@
 
 ### Step 3 – Brand Voice & Writing Style
 
-**Personality / Archetype** – The Sage + Supportive Coach (wise, approachable, professional, light‑hearted).\
-**Tone Words** – Clear · Direct · Empathetic · Encouraging · Confident.\
-**Avoid** – Jargony · Overly Formal · Condescending · Overly Casual.
+## 1. Brand Personality & Archetype
 
-**Writing Style Do’s**
-Active voice, varied sentence length, business‑casual tone, use “you” & “we”, structured formatting.
-
-**Storytelling Approach**
-Anonymized client wins, transformation moments, behind‑the‑scenes lessons; client is hero, you are guide.
+| Aspect | Definition |
+|--------|------------|
+| **Primary Archetype** | **The Sage** – Wise, analytical, truth-seeking. Brings clarity and deep expertise to complex mortgage topics. |
+| **Supporting Role** | **The Guide / Coach** – Empowers clients to be the hero of their own story; offers steady encouragement and practical game plans. |
+| **Signature Traits** | • **Wise** – 25 years’ experience distilled into clear guidance.<br>• **Supportive** – True ally invested in client success.<br>• **Approachable** – Down-to-earth and relatable.<br>• **Professional** – Takes the work seriously (but not self-seriously).<br>• **Light-hearted** – Uses tasteful humor to ease tension and build rapport. |
+| **Humor Guideline** | Add warmth and relatability without ever undercutting professionalism or the gravity of a financial decision. |
 
 ---
 
-### Step 4 – Offer Suite & USPs
+## 2. Core Tone Guidelines
 
-| Service                       | USP                                                                                                           |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **Home Purchase Loans**       | Strategic advisor; offer‑strength consulting; proactive listing‑agent calls; stays in trenches until closing. |
-| **Refinancing Solutions**     | Strategy over rate‑chasing; honest math; will advise “wait” if refi doesn’t pencil.                           |
-| **Non‑QM Lending**            | 90 % funded in‑house; stronger credit & down payments; pivot without restart.                                 |
-| **Reverse Mortgages**         | Education‑first; starts with “5 reasons not to”; personal family success story.                               |
-| **Renovation Loans**          | After‑repair‑value lending; solutions for low‑rate‑era and post‑2023 owners.                                  |
-| **Next‑Gen Fixed‑Rate HELOC** | Digital, appraisal‑free, funds in 7–10 days; spousal‑income & side‑gig friendly; bridge‑loan capable.         |
+| Tone Element | Use / Avoid |
+|--------------|-------------|
+| **Core Tone Words** | **Clear · Direct · Empathetic · Encouraging · Confident** |
+| **Tones to Avoid** | Jargony · Overly Formal · Condescending · Overly Casual / Flippant |
+
+*Quick check:*  
+> **“Is this sentence clear, direct, and empathetic? If not, rewrite.”*
+
+---
+
+## 3. Writing Style Do’s & Don’ts
+
+| Do ✔ | Don’t ✖ |
+|------|---------|
+| Write in a **professional-but-approachable** “business-casual” voice. | Slip into stiff, academic, or robotic formality. |
+| Speak directly: use **“you”** for the reader and **“we”** for shared goals. | Make the copy impersonal or passive. |
+| Use **active voice** to energize and clarify. | Over-rely on passive voice or bury the subject. |
+| **Explain jargon** or industry terms the first time they appear. | Assume every reader knows mortgage acronyms. |
+| **Vary sentence length** for rhythm; break long thoughts into bite-size pieces. | Write endless, complex sentences that force re-reading. |
+| Structure content with **headings, bullet points, and short paragraphs** for scanability. | Drop walls of text without visual relief. |
+| Be **positive, supportive, and honest**—even when advice is “not now.” | Use vague fluff, hype, or filler that wastes the reader’s time. |
+| **Invite questions** and emphasize open communication (text/email). | Sound aloof, rushed, or dismissive of concerns. |
+
+---
+
+## 4. Storytelling Integration Framework
+
+| Component | Guidance |
+|-----------|----------|
+| **Types of Stories** | • **Client Success Stories** – anonymized examples where your advice unlocked “impossible” outcomes.<br>• **Lessons From the Trenches** – behind-the-scenes insights that reveal decision-making and expertise.<br>• **Transformation Moments** – mindset shifts or pivotal steps that changed a client’s trajectory. |
+| **Purpose** | 1. **Inspire Hope** – Show that strategic guidance makes the impossible possible.<br>2. **Build Trust** – Demonstrate expertise through relatable, real-world results.<br>3. **Educate** – Turn complex ideas into memorable narratives. |
+| **Tone & POV** | • **Client as Hero** – They face the challenge; you’re the Sage/Coach guiding them.<br>• **Emotionally Honest** – Acknowledge fears, celebrate wins.<br>• **Constructive & Forward-Looking** – End with clear lessons or next steps. |
+| **Ethics** | • Anonymize details to protect privacy.<br>• No embellishment—authentic wins only.<br>• Secure permission when sharing recognizable specifics. |
+
+---
+
+## 5. Quick Reference Checklist
+
+1. **Voice:** Sage-wise, Coach-supportive, lightly humorous.  
+2. **Tone Words:** Clear · Direct · Empathetic · Encouraging · Confident.  
+3. **Ask:** *“Would I say this to a friend needing honest advice?”*  
+4. **Avoid:** Jargon dump, formal stiffness, condescension, salesy hype.  
+5. **Stories:** Make the client the hero; keep it real and instructive.  
+
+
+---
+
+### Step 4 – Offer Suite & Unique Selling Propositions 
+
+## Overview – Core Services / Products
+1. **Home Purchase Loans** – strategy-driven financing that helps clients win the right home.  
+2. **Refinancing Solutions** – cash-out, rate-and-term, fixed-rate HELOCs, & second mortgages.  
+3. **Non-QM Lending** – in-house common-sense loans for borrowers outside traditional boxes.  
+4. **Reverse Mortgages** – education-first freedom tools for the right retirement fit.  
+5. **Renovation Loans** – purchase & refi programs that finance improvements into the loan.  
+6. **Next-Gen Fixed-Rate HELOC** – digital, appraisal-free equity access in ~7–10 days.
+
+---
+
+## 1. Home Purchase Loans
+
+| Section | Details |
+|---------|---------|
+| **Who It’s For** | First-time buyers & move-up buyers competing in tight markets. |
+| **Signature Benefits** | • Early issue-spotting & creative problem-solving.<br>• **Offer-strategy consulting** with buyer & agent (contingencies, appraisal gaps, credits, escalation clauses, rent-backs).<br>• Personal **listing-agent call** to vouch for the buyer’s strength.<br>• Weekly market videos while shopping + weekly transaction updates in contract. |
+| **Unique Selling Proposition** | *“Most lenders vanish after pre-approval. I stay in the trenches—bringing real-time tactics that help your realtor win the deal.”* |
+
+---
+
+## 2. Refinancing Solutions
+
+| Section | Details |
+|---------|---------|
+| **Who It’s For** | Homeowners seeking lower payments, equity access, term reduction, or debt consolidation. |
+| **Signature Benefits** | • Evaluate **total cost vs. benefit** (rate, fees, taxes, timeline).<br>• Access equity for college, business, renovations, or high-interest payoff.<br>• Shorten term to accelerate debt-free goals.<br>• Honest advice: if refi ≠ smart now, you’ll hear “wait”—with trigger points to revisit. |
+| **Unique Selling Proposition** | *“Strategy over rate-chasing: I model cost, timing, and long-term impact—then tell you if refinancing is truly worth it.”* |
+
+---
+
+## 3. Non-QM Lending
+
+| Section | Details |
+|---------|---------|
+| **Who It’s For** | Investors, self-employed, foreign nationals, ITIN holders, alt-income borrowers. |
+| **Signature Benefits** | • 90 % of non-QM loans funded **in-house** for control & speed.<br>• Products for bank-statement, P&L, asset-depletion, DSCR, non-citizen scenarios.<br>• Pivot between programs without restarting like brokers must. |
+| **Unique Selling Proposition** | *“Not the subprime of 2005—today’s non-QM requires stronger credit & larger equity. I’m the expert who solves common-sense cases conventional guidelines ignore.”* |
+
+---
+
+## 4. Reverse Mortgages
+
+| Section | Details |
+|---------|---------|
+| **Who It’s For** | Homeowners 62 + exploring retirement cash-flow freedom. |
+| **Signature Benefits** | • Starts with **“5 reasons not to”**—transparency first.<br>• Personal family success story underscores empathy & expertise.<br>• Multiple structures: purchase, refi, lump sum, monthly draw.<br>• Budget-focused planning & heirs’ protection explained in plain English. |
+| **Unique Selling Proposition** | *“Education-first, zero-pressure. If a reverse mortgage isn’t right, we’ll prove it—before you sign anything.”* |
+
+---
+
+## 5. Renovation Loans
+
+| Section | Details |
+|---------|---------|
+| **Purchase Use-Case** | Finance improvements into the loan; expand home search to fixer-uppers or “cash-only” listings. |
+| **Refi Use-Case** | • **Low-rate COVID-era owners:** keep ultra-low first loan, use second mortgage for upgrades.<br>• **Post-2023 buyers with little equity:** after-repair-value lending lets them renovate anyway. |
+| **Signature Benefits** | • Turn compromise houses into dream homes now, not “someday.”<br>• Overcome equity barriers banks can’t solve.<br>• Align improvements with long-term wealth plan. |
+| **Unique Selling Proposition** | *“I fund the vision—whether equity is trapped or the property won’t meet lender condition rules.”* |
+
+---
+
+## 6. Next-Gen Fixed-Rate HELOC
+
+| Section | Details |
+|---------|---------|
+| **Core Features** | • **Fixed rate** locked on day 1—no prime-plus spikes.<br>• **Full draw + redraw** flexibility.<br>• **All-digital process** with remote e-notary.<br>• **Appraisal-free** in most cases.<br>• **Rapid closings:** approval in 1 day, funds in 7–10 days (some non-owner deals fund within days of signing). |
+| **Flexible Qualifications** | • **Spousal-income approval** (count both incomes, use one credit profile).<br>• **Side-gig deposits** auto-counted; asset-depletion option for HNW clients. |
+| **Bridge-Financing Power** | Use equity from a home already listed for sale; ideal for pre-sale repairs or buying next home before closing. |
+| **Unique Selling Proposition** | *“The fintech-speed, fixed-rate HELOC that qualifies more households and funds faster than any old-school line—cash in days, not months.”* |
+
+---
+
+## Quick Reference – Offer/USP Matrix
+
+| Service | One-Sentence USP |
+|---------|------------------|
+| **Purchase Loans** | Strategic lender who helps win offers, not just approve loans. |
+| **Refinance** | Long-term wealth math beats headline-rate hype. |
+| **Non-QM** | In-house control + expertise ≠ 2005 subprime; solves real-life edge cases. |
+| **Reverse** | Starts with reasons *not* to sign—then builds freedom responsibly. |
+| **Renovation** | Finance the upgrades now; equity or condition won’t block the dream. |
+| **Fixed-Rate HELOC** | Digital, fixed, fast—equity access on modern terms. |
+
+> **Implementation Tip**  
+> • Drop each USP into website sections, email headers, and social captions.<br>• Use Signature Benefits as bullet points beneath each offering on your services page.<br>• Refer to this file when updating products to ensure differentiation remains crystal-clear.
+
+
 
 ---
 
