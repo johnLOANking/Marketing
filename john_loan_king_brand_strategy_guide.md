@@ -162,6 +162,85 @@
 
 ---
 
+## Persona #4 – Self-Employed Business Owners
+
+### Snapshot  
+Entrepreneurs and 1099 earners who struggle to qualify under traditional income-calculation rules because they show low taxable profits or lack a full two-year history.
+
+
+
+### Demographics & Profile
+| Attribute | Details |
+|-----------|---------|
+| **Age Range** | Broad mix — 20-something founders through 60-plus seasoned owners |
+| **Gender** | Even distribution |
+| **Occupations / Industries** | Highly varied: consultants, contractors, medical/dental practice owners, e-commerce operators, real-estate agents, restaurateurs, creatives, and more |
+| **Geographic Reach** | Nationwide, attracted via online marketing, CPA referrals, and peer networks |
+
+
+
+### Typical Financing Scenarios
+| Scenario | Frequency |
+|----------|-----------|
+| **Purchasing a home (primary, second, or investment)** | Most common |
+| **Refinancing to tap equity for business growth or debt consolidation** | Close second |
+| **Cash-out HELOC / second mortgage** | Occasional |
+
+
+
+### Primary Goals
+1. **Qualify for best-term loans** without overstating taxable income.  
+2. **Leverage business success** (cash flow, assets) to buy or upgrade a home.  
+3. **Free up capital** through equity taps to reinvest in the business.  
+4. **Minimize tax liability** while still meeting lending requirements.
+
+
+
+### Key Pain Points You Solve
+| Pain Point | Your Solution |
+|------------|---------------|
+| **Traditional income-calc rules reject them** | Deep tax-return expertise lets you capture add-backs, depreciation, and business adjustments that other lenders miss. |
+| **Most lenders misread self-employed taxes** | You grew up in a tax-prep household, review returns line-by-line, and often secure conventional approvals where others couldn’t. |
+| **Timing of tax filing can kill a deal** | Offer **pre-filing tax reviews** to tweak S-corp distributions, add-backs, or expense strategy *before* returns are filed. |
+| **Need one-year income option** | When viable, structure approvals on the most recent year’s stronger income to unlock conventional pricing. |
+| **If conventional still won’t work** | Pivot to in-house **bank-statement, P&L, asset-depletion, or DSCR non-QM** loans without restarting the file. |
+
+
+
+### Values & Expectations
+* **Hands-on, expert guidance** (CPA-level tax fluency).  
+* **Creative but compliant solutions** that respect IRS rules.  
+* **Clear, jargon-free explanations** of why a strategy works.  
+* **Speed & certainty** — no endless back-and-forth on docs.  
+* **One advisor for life** who understands both personal and business finance goals.
+
+
+
+### Watering Holes
+| Source | Examples |
+|--------|----------|
+| **Financial Pros** | CPAs, tax preparers, bookkeepers |
+| **Real-Estate Pros** | Realtors experienced with self-employed buyers |
+| **Peer Networks** | Local entrepreneur meet-ups, industry masterminds, LinkedIn business groups |
+
+
+
+### Messaging Hooks
+* **“Turn business write-offs into mortgage approvals, not roadblocks.”**  
+* **“We read your tax return the way underwriters *should*.”**  
+* **“File smart this year — qualify smarter next year.”**  
+* **“From bank-statement loans to one-year returns, we fund what your tax strategy hides.”**
+
+
+
+> **Usage Tips**  
+> • Co-market with CPAs and realtors: offer pre-tax-filing review webinars.  
+> • Create content: “5 Tax-Return Lines That Can Make or Break Your Mortgage.”  
+> • Email drip: annual reminder each January—“Let’s review your draft returns before you hit ‘send’ to the IRS.”
+
+---
+
+
 
 ---
 
@@ -184,7 +263,7 @@
 | **Signature Traits** | • **Wise** – 25 years’ experience distilled into clear guidance.<br>• **Supportive** – True ally invested in client success.<br>• **Approachable** – Down-to-earth and relatable.<br>• **Professional** – Takes the work seriously (but not self-seriously).<br>• **Light-hearted** – Uses tasteful humor to ease tension and build rapport. |
 | **Humor Guideline** | Add warmth and relatability without ever undercutting professionalism or the gravity of a financial decision. |
 
----
+
 
 ## 2. Core Tone Guidelines
 
@@ -196,7 +275,7 @@
 *Quick check:*  
 > **“Is this sentence clear, direct, and empathetic? If not, rewrite.”*
 
----
+
 
 ## 3. Writing Style Do’s & Don’ts
 
@@ -211,7 +290,7 @@
 | Be **positive, supportive, and honest**—even when advice is “not now.” | Use vague fluff, hype, or filler that wastes the reader’s time. |
 | **Invite questions** and emphasize open communication (text/email). | Sound aloof, rushed, or dismissive of concerns. |
 
----
+
 
 ## 4. Storytelling Integration Framework
 
@@ -222,7 +301,7 @@
 | **Tone & POV** | • **Client as Hero** – They face the challenge; you’re the Sage/Coach guiding them.<br>• **Emotionally Honest** – Acknowledge fears, celebrate wins.<br>• **Constructive & Forward-Looking** – End with clear lessons or next steps. |
 | **Ethics** | • Anonymize details to protect privacy.<br>• No embellishment—authentic wins only.<br>• Secure permission when sharing recognizable specifics. |
 
----
+
 
 ## 5. Quick Reference Checklist
 
@@ -245,7 +324,7 @@
 5. **Renovation Loans** – purchase & refi programs that finance improvements into the loan.  
 6. **Next-Gen Fixed-Rate HELOC** – digital, appraisal-free equity access in ~7–10 days.
 
----
+
 
 ## 1. Home Purchase Loans
 
@@ -255,7 +334,7 @@
 | **Signature Benefits** | • Early issue-spotting & creative problem-solving.<br>• **Offer-strategy consulting** with buyer & agent (contingencies, appraisal gaps, credits, escalation clauses, rent-backs).<br>• Personal **listing-agent call** to vouch for the buyer’s strength.<br>• Weekly market videos while shopping + weekly transaction updates in contract. |
 | **Unique Selling Proposition** | *“Most lenders vanish after pre-approval. I stay in the trenches—bringing real-time tactics that help your realtor win the deal.”* |
 
----
+
 
 ## 2. Refinancing Solutions
 
@@ -265,7 +344,7 @@
 | **Signature Benefits** | • Evaluate **total cost vs. benefit** (rate, fees, taxes, timeline).<br>• Access equity for college, business, renovations, or high-interest payoff.<br>• Shorten term to accelerate debt-free goals.<br>• Honest advice: if refi ≠ smart now, you’ll hear “wait”—with trigger points to revisit. |
 | **Unique Selling Proposition** | *“Strategy over rate-chasing: I model cost, timing, and long-term impact—then tell you if refinancing is truly worth it.”* |
 
----
+
 
 ## 3. Non-QM Lending
 
@@ -275,7 +354,7 @@
 | **Signature Benefits** | • 90 % of non-QM loans funded **in-house** for control & speed.<br>• Products for bank-statement, P&L, asset-depletion, DSCR, non-citizen scenarios.<br>• Pivot between programs without restarting like brokers must. |
 | **Unique Selling Proposition** | *“Not the subprime of 2005—today’s non-QM requires stronger credit & larger equity. I’m the expert who solves common-sense cases conventional guidelines ignore.”* |
 
----
+
 
 ## 4. Reverse Mortgages
 
@@ -285,7 +364,7 @@
 | **Signature Benefits** | • Starts with **“5 reasons not to”**—transparency first.<br>• Personal family success story underscores empathy & expertise.<br>• Multiple structures: purchase, refi, lump sum, monthly draw.<br>• Budget-focused planning & heirs’ protection explained in plain English. |
 | **Unique Selling Proposition** | *“Education-first, zero-pressure. If a reverse mortgage isn’t right, we’ll prove it—before you sign anything.”* |
 
----
+
 
 ## 5. Renovation Loans
 
@@ -296,7 +375,7 @@
 | **Signature Benefits** | • Turn compromise houses into dream homes now, not “someday.”<br>• Overcome equity barriers banks can’t solve.<br>• Align improvements with long-term wealth plan. |
 | **Unique Selling Proposition** | *“I fund the vision—whether equity is trapped or the property won’t meet lender condition rules.”* |
 
----
+
 
 ## 6. Next-Gen Fixed-Rate HELOC
 
@@ -307,7 +386,7 @@
 | **Bridge-Financing Power** | Use equity from a home already listed for sale; ideal for pre-sale repairs or buying next home before closing. |
 | **Unique Selling Proposition** | *“The fintech-speed, fixed-rate HELOC that qualifies more households and funds faster than any old-school line—cash in days, not months.”* |
 
----
+
 
 ## Quick Reference – Offer/USP Matrix
 
@@ -338,7 +417,7 @@
 | **3. Strategic Loan Planning & Advice** | Financing as a custom strategy, not a commodity. | • “**The right loan is a strategy, not a product.**” <br>• “We weigh cost, timing, and opportunity—**every time.**” <br>• “Sometimes the best advice is **‘wait.’**” |
 | **4. Collaborative Financial Guidance** | Work in concert with the client’s full advisory team. | • “Great outcomes happen when **your experts talk to each other.**” <br>• “**Your mortgage shouldn’t live in a silo.**” <br>• “I’m the mortgage specialist on **your bench.**” |
 
----
+
 
 ## 2. Elevator Pitches
 
@@ -348,7 +427,7 @@
 ### ⏱ 60-Second Pitch  
 > *I’m a top-1 percent mortgage advisor who treats every loan as a custom strategy, not a commodity. For first-time buyers, I demystify the process and craft offers that win in tight markets. For seasoned homeowners, I show how to use equity—through refis, fixed-rate HELOCs, or renovation financing—to fund college, launch businesses, or retire debt. I also lead in non-QM lending, solving common-sense problems conventional programs ignore and doing 90 percent of those loans in-house for speed and control. Most important, I collaborate with your realtor, financial planner, and CPA so your mortgage choices fit your full wealth plan. My promise: clear communication, creative solutions, and advice honest enough to say ‘wait’ when that’s truly the best move.*
 
----
+
 
 ## 3. Primary Calls-to-Action (CTAs)
 
@@ -358,7 +437,7 @@
 | **Start Your Application** | • **“Start Your Application—Takes 10 Minutes”** <br>• “See numbers tailored to you—**kick off your application** and I’ll follow up personally.” | Landing pages, post-consult emails, video CTAs |
 | **Text / Email Your Questions** | • **“Quick question? Text me at ###-###-####—I reply fast.”** <br>• “Not sure which option fits? **Hit reply** and I’ll send a clear answer.” | Website contact bar, email PS, stories/DM prompts |
 
----
+
 
 ## 4. Objection-Handling Playbook
 
@@ -370,7 +449,7 @@
 | **“I don’t want to restart a 30-year clock just to refinance.”** | “Valid concern. We can match or shorten your remaining term, or create a custom amortization schedule—so you keep momentum toward debt-free. Let’s model scenarios and see which balances cash-flow and payoff best.” |
 | **“HELOCs take forever and the rate can spike.”** | “Traditional lines, yes. Our fixed-rate HELOC is approved in a day and funds in 7–10 days—often appraisal-free. Your payment stays predictable, and you can redraw principal anytime.” |
 
----
+
 
 ## 5. Quick Usage Guide
 
