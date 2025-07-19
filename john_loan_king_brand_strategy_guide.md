@@ -247,36 +247,63 @@
 
 ---
 
-# Step 5 – Core Messaging & Copy Assets
+# Step 5 – Brand Messaging Playbook 
 
-**Pillars & Key Messages**
+## 1. Core Messaging Pillars & Key Messages
 
-1. Education & Empowerment – “I explain the complicated so you feel confident.”
-2. Homeownership = Wealth Tool – “Real estate is investment, not expense.”
-3. Strategic Loan Planning – “The right loan is a strategy, not a product.”
-4. Collaborative Guidance – “Great outcomes happen when your experts talk.”
-
-**Elevator Pitch (30s)**
-I’m a mortgage strategist who helps buyers, owners, and investors turn financing into a wealth‑building tool. With 25 years’ experience and solutions from first‑time loans to next‑gen HELOCs, I uncover options most lenders miss and coordinate with your other advisors so every move supports your bigger goals.
-
-**Primary CTAs**
-• Plan Your Mortgage Strategy → Book a 30‑min Call\
-• Start Your Application—Takes 10 Minutes\
-• Quick question? Text 855-626-5464
-
-**Objection Handling – Scripts**
-
-| Objection | Brand‑Aligned Response |
-|-----------|------------------------|
-| **“I’m only interested if you have the lowest rate.”** | “A great rate matters—but it’s just one piece of total cost. Let’s run the numbers side‑by‑side, including fees, tax impact, and future flexibility. If a lower‑rate loan elsewhere truly beats the full picture we create, I’ll tell you. My job is to save you money long‑term, not just win on a headline number.” |
-| **“I’ve heard non‑QM loans are risky—aren’t they like the subprime stuff from 2005?”** | “Today’s non‑QM loans are built on stronger credit, larger down payments, and strict ability‑to‑repay rules—worlds apart from pre‑2008 subprime. They simply use common‑sense underwriting for entrepreneurs, investors, or foreign nationals conventional loans overlook. I’ll show you the exact safeguards so you can decide with confidence.” |
-| **“A reverse mortgage sounds scary—I don’t want to lose my house.”** | “Ownership stays in your name, and you (or your heirs) always control whether the home is sold, refinanced, or kept. We’ll start by covering five reasons *not* to do a reverse mortgage. If it still looks right after that reality check, we’ll walk through the protections step‑by‑step.” |
-| **“I don’t want to restart a 30‑year clock just to refinance.”** | “Totally fair. We can match or shorten your remaining term, or design a custom amortization schedule—so you keep momentum toward debt‑free. Let’s model a few scenarios and see which one best balances monthly cash flow and long‑term payoff.” |
-| **“HELOCs take forever and the rate can spike.”** | “Traditional HELOCs, yes. Ours is a fixed‑rate line approved in a day and funded in 7–10 days—often appraisal‑free. Your payment stays predictable, and you can redraw principal as you repay. It’s built for speed *and* stability.” |
+| Pillar | Theme | Key Messages (Memorable Sound-Bites) |
+|--------|-------|--------------------------------------|
+| **1. Education & Empowerment** | Elevate client understanding and confidence. | • “You don’t need to know the right questions—**I’ll ask them for you.**” <br>• “I explain the complicated in a way that makes sense—**so you feel confident, not confused.**” <br>• “My advice isn’t just about approval—**it’s about understanding.**” |
+| **2. Homeownership as a Strategic Wealth Tool** | Real estate = long-term wealth engine (first home → portfolio). | • “Owning a home isn’t just about where you live—**it builds wealth for your future.**” <br>• “Real estate isn’t just an expense—**it’s an investment.**” <br>• “Think beyond your current home—**your next one could pay you.**” |
+| **3. Strategic Loan Planning & Advice** | Financing as a custom strategy, not a commodity. | • “**The right loan is a strategy, not a product.**” <br>• “We weigh cost, timing, and opportunity—**every time.**” <br>• “Sometimes the best advice is **‘wait.’**” |
+| **4. Collaborative Financial Guidance** | Work in concert with the client’s full advisory team. | • “Great outcomes happen when **your experts talk to each other.**” <br>• “**Your mortgage shouldn’t live in a silo.**” <br>• “I’m the mortgage specialist on **your bench.**” |
 
 ---
 
-# Brand Voice & AI Content Generation Guide
+## 2. Elevator Pitches
+
+### ⚡ 30-Second Pitch  
+> *I’m a mortgage strategist who helps homebuyers, homeowners, and real-estate investors turn financing into a wealth-building tool. With 25 years’ experience and programs ranging from first-time-buyer loans to next-gen HELOCs and non-QM solutions, I uncover options most lenders miss. Part educator, part coach, I ask the right questions, map the smartest path, and partner with your other advisors so every move supports your goals—whether that’s winning a competitive offer, tapping equity for growth, or building a rental portfolio.*
+
+### ⏱ 60-Second Pitch  
+> *I’m a top-1 percent mortgage advisor who treats every loan as a custom strategy, not a commodity. For first-time buyers, I demystify the process and craft offers that win in tight markets. For seasoned homeowners, I show how to use equity—through refis, fixed-rate HELOCs, or renovation financing—to fund college, launch businesses, or retire debt. I also lead in non-QM lending, solving common-sense problems conventional programs ignore and doing 90 percent of those loans in-house for speed and control. Most important, I collaborate with your realtor, financial planner, and CPA so your mortgage choices fit your full wealth plan. My promise: clear communication, creative solutions, and advice honest enough to say ‘wait’ when that’s truly the best move.*
+
+---
+
+## 3. Primary Calls-to-Action (CTAs)
+
+| CTA | Copy Examples | Placement Ideas |
+|-----|---------------|-----------------|
+| **Book a 30-Minute Strategy Call** | • **“Plan Your Mortgage Strategy → Book a 30-min call”** (button) <br>• “Ready for answers? **Grab a 30-minute slot** on my calendar.” (email sig) <br>• “Got refi or buying questions? **Book a free 30-min strategy call** and let’s map your next move.” (social) | Website hero, email footer, social posts, video outros |
+| **Start Your Application** | • **“Start Your Application—Takes 10 Minutes”** <br>• “See numbers tailored to you—**kick off your application** and I’ll follow up personally.” | Landing pages, post-consult emails, video CTAs |
+| **Text / Email Your Questions** | • **“Quick question? Text me at ###-###-####—I reply fast.”** <br>• “Not sure which option fits? **Hit reply** and I’ll send a clear answer.” | Website contact bar, email PS, stories/DM prompts |
+
+---
+
+## 4. Objection-Handling Playbook
+
+| Common Objection | Brand-Aligned Response |
+|------------------|------------------------|
+| **“I’m only interested if you have the lowest rate.”** | “A great rate matters—but it’s just one part of total cost. Let’s compare fees, tax impact, and future flexibility. If a lower-rate loan elsewhere truly beats the full picture we create, I’ll tell you. My job is to save you money long-term, not just win a headline.” |
+| **“Non-QM loans are risky—aren’t they like subprime?”** | “Today’s non-QM loans require stronger credit and bigger down payments than many conventional loans. They simply use common-sense underwriting for entrepreneurs, investors, or foreign nationals conventional guidelines ignore. I’ll walk you through each safeguard.” |
+| **“Reverse mortgages sound scary—I don’t want to lose my house.”** | “Ownership stays in your name. You or your heirs decide if the home is kept, refinanced, or sold. We’ll start by covering five reasons *not* to do a reverse mortgage—then review the protections step-by-step.” |
+| **“I don’t want to restart a 30-year clock just to refinance.”** | “Valid concern. We can match or shorten your remaining term, or create a custom amortization schedule—so you keep momentum toward debt-free. Let’s model scenarios and see which balances cash-flow and payoff best.” |
+| **“HELOCs take forever and the rate can spike.”** | “Traditional lines, yes. Our fixed-rate HELOC is approved in a day and funds in 7–10 days—often appraisal-free. Your payment stays predictable, and you can redraw principal anytime.” |
+
+---
+
+## 5. Quick Usage Guide
+
+1. **Inject Key Messages** into social posts, blog intros, and video scripts.  
+2. **Open every sales call** with the 30-second pitch; segue to 60-second version for deeper intros.  
+3. **Use CTA set** consistently across site, emails, and ads for clear next steps.  
+4. **Embed objection scripts** in FAQs, chatbot replies, and training for team members.
+
+> **Keep this Markdown as the single source of truth** for all future content and conversations.
+
+---
+
+# Recap- Brand Voice & AI Content Generation Guide
 
 **Use this guide in prompts to ensure content stays on‑brand.**
 
