@@ -546,7 +546,75 @@ Small- to mid-volume real-estate agents who close a handful to a few dozen deals
 > • Host short Zoom “power sessions” on DSCR, bridge-loans, VA seller credits.  
 > • Offer co-branded marketing pieces: one-page explainers they can email buyers.
 ---
+## Persona #9 – CPA / Financial-Planner Referral Partners
 
+### Snapshot
+Solo practitioners and small-firm advisors whose reputation rides on any professional they recommend.  
+They’re skeptical of most loan officers—assuming minimal tax knowledge and poor follow-through—so they either refer no one or stick with the first lender who **truly impresses** them.
+
+
+
+### Demographics & Profile
+| Attribute | Details |
+|-----------|---------|
+| **Firm Size** | 1–5 professionals (solo CPAs, EA practices, boutique RIA/financial-planning firms) |
+| **Client Base** | High-income W-2 earners, self-employed owners, and early retirees who need tax-smart financing |
+| **Pain Point with Lenders** | Most LO’s don’t “speak tax,” create surprises, and ignore how a loan impacts the broader financial plan |
+
+
+### Primary Goals
+1. **Protect their reputation**—any referral must elevate client trust, not erode it.  
+2. **Keep tax & cash-flow strategy intact**—no last-minute changes that blow up projections.  
+3. **Look like a value-add advisor**—offering vetted solutions beyond traditional planning.
+
+
+
+### Key Pain Points You Solve
+| Pain Point | Your Solution |
+|------------|---------------|
+| **Skepticism about loan-officer competence** | Demonstrate tax-return fluency (line-by-line add-backs, entity K-1 analysis, residual-income calc). Share “before/after” case studies showing how financing aligned with tax strategy. |
+| **Fear of last-minute surprises** | Proactive communication: CPA gets copied on milestones + heads-up on any credit/asset issues that could change tax or cash-flow projections. |
+| **Loans derailing tax planning** | Pre-filing tax return reviews; coordinate with CPA to tweak distributions or expenses so client still qualifies *and* optimizes tax liability. |
+| **Lack of creative options for unique clients** | In-house non-QM, DSCR, fixed-rate HELOC, bridge loans—solutions that fit entrepreneurs and high-net-worth strategies. |
+
+
+
+### Values & Expectations
+* **Professional Competence** – lender must “speak CPA language.”  
+* **Client-First Mentality** – no upselling, no drama.  
+* **Proactive, Transparent Comms** – no surprises that reflect badly on the advisor.  
+* **Strategic Alignment** – financing choices support the broader financial plan.  
+* **Reciprocity (Optional)** – willingness to send clients back for tax or planning advice when needed.
+
+
+
+### Engagement Journey
+1. **First Impression** – sees a technical webinar, LinkedIn post, or client success story demonstrating tax fluency.  
+2. **Test Case** – sends a single tough file (self-employed or complex return).  
+3. **Proof of Competence** – experience smooth process + proactive updates.  
+4. **Ongoing Partner** – begins looping you into annual planning for mortgage-impact discussions.
+
+
+
+### Watering Holes
+* Local CPA society newsletters & CE events  
+* LinkedIn groups: “Tax Planning for Entrepreneurs,” “RIAs & CPAs Collaborative”  
+* Podcasts: “CPA Practice Advisor,” “Kitces Financial Advisor Success”  
+* Niche conferences & virtual tax-planning summits
+
+
+
+### Messaging Hooks
+* **“Line-by-line tax-return expertise—mortgages that *match* your plan, not mangle it.”**  
+* **“Your client’s cash-flow model survives underwriting—no last-minute surprises.”**  
+* **“Creative lending for entrepreneurs and high-net-worth households—without blowing up the S-corp strategy.”**  
+* **“Copying you on every milestone—because your reputation matters as much as mine.”**
+
+
+
+> **Usage Tips**  
+> • Offer quarterly “Tax-Smart Mortgage” webinars for CPAs & planners.<br>• Provide a one-page “Mortgage Impact Checklist” they can share with clients.<br>• Send annual “pre-tax-filing” reminder emails: invite advisors to review draft returns together.
+---
 
 
 ---
