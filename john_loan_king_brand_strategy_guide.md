@@ -316,6 +316,84 @@ Key stressor: **“Do we sell, keep, or rent out the current home—and how do w
 > • Drip emails triggered by HELOC inquiries: present sell-vs-rent calculator & bridge-loan explainer.
 
 ---
+## Persona #6 – Relocation Buyers
+
+### Snapshot
+Homeowners or renters (30s–50s) moving cross-state for cheaper cost of living, proximity to family, or a new job.  
+Biggest blind spot: **income-portability rules**—they assume their current job qualifies even when it will change.
+
+
+
+### Demographics & Profile
+| Attribute | Details |
+|-----------|---------|
+| **Age Range** | Early-30s → late-50s (few in 20s) |
+| **Household** | Mix of families, empty-nest couples, and mid-career professionals |
+| **Occupations** | Remote-eligible professionals, healthcare, tech, sales, small-biz owners |
+| **Current Housing** | Many own a home in the departure market; some are long-term renters |
+| **Destination Markets** | Lower-cost metros or hometown areas—research via YouTube “living in ___” videos and portal browsing (Zillow, Redfin) |
+
+
+
+### Primary Motivation Triggers
+1. **Cost-of-Living Shift** – move from high-tax / high-price state to affordable market.  
+2. **Family Proximity** – aging parents, grandkids, multigenerational support.  
+3. **Job Transfer / Career Pivot** – new role or remote-friendly employer.
+
+
+
+### Key Pain Points You Solve
+| Pain Point | Solution |
+|------------|----------|
+| **Income-Portability Confusion** | Educate on lender rules: written job offers, remote-work letters, proof of same industry, break-in-employment limits. Pre-underwrite files to clear portability before house-hunting. |
+| **Understanding a Brand-New Market** | Provide cost-of-living breakdowns, local lender insights on taxes/insurance, and introductions to trusted real-estate pros. Host “Moving to ___” webinars. |
+| **Sequencing Sell vs. Buy** | Bridge-style loan (equity advance) that releases a portion of the current home’s value **before** it’s sold—covers down payment, moving costs, and up to six months of the old mortgage. Paid off automatically when the departure home closes. Also offer fixed-rate HELOC and delayed-financing options. |
+| **Qualifying While Old Home Unsold** | Use the bridge proceeds above, plus cross-collateral or recast plans to manage two-mortgage ratios. Rental-history offsets if converting the old home to a lease. |
+| **Remote House-Hunt Logistics** | E-sign, remote online notarization, mobile appraisal coordination, and weekly video updates during escrow. |
+
+
+
+
+### Values & Expectations
+* **Clear explanation of income rules**—no surprises mid-escrow.  
+* **Local-market education**—taxes, insurance, HOA norms.  
+* **Logistics mastery**—remote closings, digital docs, proactive updates.  
+* **Creative funding**—bridge, HELOC, or equity-tap guidance if they keep the old house as a rental.  
+* **Network introductions**—realtors, inspectors, movers in the new city.
+
+
+
+### Information & Advice Journey
+| Stage | Typical Actions |
+|-------|-----------------|
+| **Early Research** | YouTube lifestyle & “moving to ___” channels • Zillow/Redfin browsing • Cost-of-living calculators |
+| **Peer Input** | Friends/family already in the destination city |
+| **Professional Help** | Realtor engagement → lender (you) for financing & sequencing plan |
+
+
+
+### Watering Holes
+* YouTube relocation vlogs  
+* Facebook groups: “Moving to [City]”, “Californians in Texas”  
+* Reddit subs: r/PersonalFinance, r/RealEstate, city-specific subs  
+* Destination-city realtor blogs & podcasts
+
+
+
+### Messaging Hooks
+* **“Prove your income travels with you—before you start house-hunting.”**  
+* **“Buy first, move first—then sell stress-free back home.”**  
+* **“Remote closing, local expertise: keys waiting when you arrive.”**  
+* **“Know the taxes, insurance, and true costs of your new market—before you pack.”**
+
+
+
+> **Implementation Examples**  
+> • Create a relocation checklist PDF: income-portability docs, remote-closing steps, sell-vs-rent calculator.  
+> • Run monthly live Q&A: “Moving from High-Cost State to Low-Cost State—Financing 101.”  
+> • Co-market with destination Realtors: joint webinars & YouTube interviews.
+---
+
 
 
 ---
